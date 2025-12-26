@@ -1,0 +1,51 @@
+[
+  {
+    "id": "top_001",
+    "category": "shirt",
+    "color": "blue",
+    "fit": "regular",
+    "formality": "casual",
+    "season": [
+      "summer"
+    ],
+    "image": "images/clean/shirt_test.png"
+  },
+  {
+    "id": "auto_a103fb",
+    "category": "bottomwear",
+    "type": "shorts",
+    "subtype": "unknown",
+    "color": {
+      "name": "beige",
+      "rgb": [
+        137,
+        134,
+        128
+      ],
+      "group": "neutral"
+    },
+    "fit": "unknown",
+    "formality": "unknown",
+    "season": [],
+    "image": "images/clean/white tshirt.png"
+  },
+  {
+    "id": "auto_723ba0",
+    "category": "topwear",
+    "type": "shirt",
+    "subtype": "unknown",
+    "color": {
+      "name": "neutral",
+      "rgb": [
+        99,
+        104,
+        83
+      ],
+      "group": "neutral"
+    },
+    "fit": "unknown",
+    "formality": "unknown",
+    "season": [],
+    "image": "images/clean/green.png"
+  }
+]
