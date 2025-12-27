@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+!README.md
+
+# Testing
+test_*.py
+*.test.py
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp/
+*.tmp
+*.temp
+
+# Images (will be created at runtime)
+images/raw/*
+images/clean/*
+images/permanent/*
+images/temp/*
+
+# Inventory (will be created at runtime, but keep structure)
+inventory/*.db
+inventory/*.json
+!inventory/.gitkeep
+
+# Scripts (not needed in production)
+scripts/
+
+# Deployment
+Procfile
+RENDER_DEPLOYMENT.md
+API_TESTING_GUIDE.md
+PROJECT_DOCUMENTATION.md
+plan.md
+
